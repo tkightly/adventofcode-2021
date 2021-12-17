@@ -1,4 +1,4 @@
-$aocinput = Get-Content -Path ./2/input.txt
+$aocinput = Get-Content -Path ./1/1.2/input.txt
 
 $tracker = @($null, $null, $null)
 

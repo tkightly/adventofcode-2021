@@ -1,4 +1,4 @@
-$aocinput = Get-Content -Path ./1/input.txt
+$aocinput = Get-Content -Path ./1/1.1/input.txt
 
 $previous = 0
 $increases = 0
